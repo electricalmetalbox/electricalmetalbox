@@ -62,8 +62,13 @@
 }
 .product-image{
     overflow: hidden;
-    width:400px;   
-    mix-blend-mode: multiply; 
+    /*width:400px;   */
+    /*mix-blend-mode: multiply; */
+}
+.product-title{
+    top: 0;
+    color: black;
+    margin-top: -40px;
 }
 .contact-us-banner{    
     background-color: #283550;
